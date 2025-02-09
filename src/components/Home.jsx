@@ -7,7 +7,7 @@ function Home() {
 
   return (
     <div className="home-container">
-      <h1 className="title"> hey bestie!</h1>
+      <h1 className="title"> hey lakshmii!</h1>
 
       <div className="option-boxes">
         <div className="option-box chat-box" onClick={() => navigate("/chatbot")}>
